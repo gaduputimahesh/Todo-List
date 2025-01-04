@@ -1,6 +1,5 @@
-# Todo-List
-My First Todo Project
-# To-Do List Project
+
+# Todo List Project
 
 My first To-Do List project built with HTML and JavaScript.
 
